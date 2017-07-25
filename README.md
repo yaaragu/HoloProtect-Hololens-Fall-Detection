@@ -6,7 +6,6 @@ The Hololens app was built in Unity.
 
 In this rep you can find:
 - about HoloProtect solution and solution demo
-- the app
 - the script 
 
-* Currently the app works on a Unity simulation, but not once deployed to Hololens.
+Currently the app works on a Unity simulation, but not once deployed to Hololens. You are welcome to make suggestions.  
